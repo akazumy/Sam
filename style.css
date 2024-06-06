@@ -1517,7 +1517,7 @@ div:before, div:after {
   height: 6%;
   bottom: 0;
   right: 72%;
-  background: #ffffff;
+  background: #000000;
   z-index: 0;
 }
 .tail > .tail {
